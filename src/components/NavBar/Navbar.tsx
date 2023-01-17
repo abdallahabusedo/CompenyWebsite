@@ -11,7 +11,7 @@ function Navbar() {
     "CONTACT US",
   ];
   return (
-    <div className="flex gap-24 justify-center items-center text-center">
+    <div className="flex gap-24 ml-[10%] items-center text-center">
       <div>
         <Image src={logo} alt="" />
       </div>

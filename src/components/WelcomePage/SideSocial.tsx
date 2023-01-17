@@ -7,7 +7,7 @@ import vinmo from "./../../assets/vinmo.png";
 import path from "./../../assets/path1.png";
 function SideSocial() {
   return (
-    <div className="absolute top-[40%] left-[20%] flex flex-col gap-8 justify-center items-center">
+    <div className="absolute top-[40%] left-[10%] flex flex-col gap-8 justify-center items-center">
       {[face, insta, tweat, vinmo].map((img, index) => {
         return <Image src={img} alt="s" key={index} width={15} />;
       })}
