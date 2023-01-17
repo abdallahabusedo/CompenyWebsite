@@ -1,0 +1,7 @@
+.bg {
+  background: url("./../assets/ezgif.gif");
+  background-size: cover;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
