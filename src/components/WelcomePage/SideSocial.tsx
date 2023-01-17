@@ -4,7 +4,7 @@ import face from "./../../assets/face.png";
 import insta from "./../../assets/insta.png";
 import tweat from "./../../assets/tweat.png";
 import vinmo from "./../../assets/vinmo.png";
-import path from "./../../assets/path1.png";
+import path from "./../../assets/Path1.png";
 function SideSocial() {
   return (
     <div className="absolute top-[40%] left-[10%] flex flex-col gap-8 justify-center items-center">
